@@ -16,7 +16,7 @@ Nowadays, my main focus is crafting sleek, reactive interfaces with **Angular**.
 
 ### 🛠 In my Toolbox:
 
-* **The Pretty Stuff:** Angular (v13-v17), TypeScript, Bootstrap, Tailwind CSS.
+* **The Pretty Stuff:** Angular, TypeScript, Bootstrap, Tailwind CSS.
 * **The Engine:** Java (Legacy to Modern), SpringBoot, MyBatis, Hibernate.
 * **The Brain:** Oracle (PL-SQL), MySQL, DB2.
 * **Survival Kit:** Git, Maven, and enough coffee to keep the servers running.
