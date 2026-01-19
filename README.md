@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Daniele!
+# 👋 Hello there, I'm Daniele!
 
 ### 💻 Full Stack Engineer | Crafting Code & Solving Riddles
 I don't just write code; I build digital solutions that actually work. My journey through the tech world has been a steady climb towards building scalable and efficient enterprise applications.
