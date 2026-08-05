@@ -18,9 +18,9 @@ Nowadays, my main focus is crafting sleek, reactive interfaces with **Angular**.
 
 * **The Pretty Stuff:** Angular, TypeScript, Bootstrap, Tailwind CSS.
 * **The Engine:** Java (Legacy to Modern), SpringBoot, MyBatis, Hibernate.
-* **The Brain:** Oracle (PL-SQL), MySQL, DB2.
+* **The Brain:** Oracle (PL-SQL), MySQL.
 * **Survival Kit:** Git, Maven, and enough coffee to keep the servers running.
-* **Currently Testing:** Svelte 🚀
+* **Currently Testing:** Svelte , React Native 🚀
 
 ---
 
